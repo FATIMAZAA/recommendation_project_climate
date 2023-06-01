@@ -1,5 +1,8 @@
 # recommendation_project_climate
 
+
+Extract the file
+
 To use this project you need to download and install python. preferably the latest version
 
 
